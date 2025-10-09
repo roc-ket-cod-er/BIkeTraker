@@ -10,31 +10,6 @@ This is my journal of the design and building process of **The Ultimate Bike Odo
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/323).
 
 
-## 10/8/2025 - More Research: Blues & Waveshare Cellular.  
-
-I went around looking for other providers of cellular service, and I came across this thing called "Blues" and they also provide cellular and stuff. The one small problem is, after looking all through there documentation, the cost is still waaay too high:
-
-![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--e9dc6a1fc3237d656d1fe381983357052291e454/image.png)
-
-So umm. That was a waste of an hour...
-
-I also took a look at WaveShare's cellular offerings, and they took looking pretty cool!:
-
-![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA4NywicHVyIjoiYmxvYl9pZCJ9fQ==--95368bf01b929de5934da858a12c507cf17b97fb/image.png)
-
-Just one problem. The documentation is really hurting my brain. I am actually pretty stuck because I don't know if I should just go for using Particle IO, as that seemed to be the easiest to set up, or I could go the polar opposite and completely custom design a PCB that has build in cellular. I sort of do want it to be custom, but it would be sooo much easier to use Particle's Boron...
-
----
-
-A bit later:
-
-Brooooo I am still stuck :((((((
-
-I still have no idea how I am going to do this. Ideally I'd just make a board and hope for the best...
-
-I am sort of leaning towards using a fully custom setup...
-  
-
 ## 10/9/2025 12:28 PM - BRAINSTORMING pt1  
 
 I brainstormed about how this project would go. As it stands right now, I have a few options, but I don't really know how to do it.

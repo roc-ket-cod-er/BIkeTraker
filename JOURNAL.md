@@ -57,3 +57,20 @@ I am sort of leaning towards using a fully custom setup...
 
 (Journal Re-Upload, Messed up last one...)  
 
+## 10/9/2025 6 PM - BRAINSTORMING pt3: An ACTUAL Idea.  
+
+Alright! I think I am going to surf off of the Wave Share Board's hard work, and I am going to try and copy some of its stuff. Firstly, I did some research, and I think that I can use this cellular chip: https://jlcpcb.com/partdetail/SIMCom_WirelessSolutions-SIM7080G/C2943992.
+
+So then, I went through the datasheet, double checked most of the stuff, and it looks alright, though I am only on page 26/76 of the datasheet, so that's something...
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--6b3a4c6315b5dbd824870abcd109c8c7135d0b72/image.png)
+
+Also the fact that it is an LGA concerns me a bit too...
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI1NywicHVyIjoiYmxvYl9pZCJ9fQ==--2c249fe34c98b37f2597579c837ad02f6d2aa4cb/image.png)
+
+Here's the datasheet btw: https://www.texim-europe.com/Cmsfile/SMM-SIM7080G-Hardware-Design-V1.04-DS-200525-TE.pdf
+
+**HOURS: 2.4 / 7.2**
+  
+

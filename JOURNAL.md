@@ -54,3 +54,22 @@ I still have no idea how I am going to do this. Ideally I'd just make a board an
 I am sort of leaning towards using a fully custom setup...
   
 
+## 10/9/2025 - BRAINSTORMING pt1  
+
+I brainstormed about how this project would go. As it stands right now, I have a few options, but I don't really know how to do it.
+
+What I am thinking about doing is having it all in some king of enclosure, with a main board, GPS, and some kind of Cellular Module. The problem is, I need to have proper battery that has sufficient charge and stuff, and I need to find a good cellular module. I was thinking of having one PCB do it all, but I don't really know how I am going to do it.
+
+I did some research, and I am thinking that I should use the module in this image:
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--766c4fbdb632da2a394626a0d9ae9111e5eaa20a/image.png)
+
+But other options I have found are this thing called Simbase, 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ef6c7833f9c3e0d1f678877a5441f7ee1ae517b2/image.png)
+
+And I am sort of thinking of using it with a normal cellular module, maybe one from waveshare.
+
+**HOURS: 3.4**
+
+(this is a journal re-upload, I messed it up last time)  
+
